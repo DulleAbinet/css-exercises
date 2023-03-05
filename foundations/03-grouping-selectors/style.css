@@ -1,0 +1,15 @@
+
+.blackButten{
+    background-color:#000000 ;
+    color:#ffffff;
+}
+.yellowButten{
+    background-color: #ffff00;
+    color: #000000;
+    
+}
+.blackButten,.yellowButten{
+    font-family: Helvetica , "Times New Roman",sans-serif;
+    font-size: 28px;
+    border: rgba(255, 255, 255, 0.788);
+}
